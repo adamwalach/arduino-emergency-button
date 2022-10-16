@@ -1,0 +1,7 @@
+
+const char* actionURL = "https://api.github.com/repos/adamwalach/github-actions-test/dispatches";
+const String ghToken = "ghp_XXXXXX";
+
+const char* wifiSID = "MyWIFI";
+const char* wifiPassword = "topsecret";
+
